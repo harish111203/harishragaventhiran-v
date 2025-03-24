@@ -1,2 +1,2 @@
 # ORACLE
-Weather Analytics
+Weather Application
